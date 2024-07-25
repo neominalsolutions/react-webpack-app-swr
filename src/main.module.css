@@ -1,0 +1,14 @@
+.textCenter{
+    text-align: center;
+}
+
+.color-yellow {
+    color:green
+}
+
+/* import * as styles from './main.module.scss'; */
+
+/* 
+<p className={`${styles.textCenter} ${styles['color-yellow']}`}>
+				From Css Module
+			</p> */
